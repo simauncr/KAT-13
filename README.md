@@ -1,4 +1,6 @@
-![KAT 13 Cover](<Gizemli Kat 13 ni.png>)
+<p align="center">
+  <img src="./cover.png" alt="KAT 13 Cover" width="450">
+</p>
 
 # KAT 13
 

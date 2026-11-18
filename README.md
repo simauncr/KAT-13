@@ -1,3 +1,5 @@
+![KAT 13 Cover](Gizemli%20Kat%2013%20ni.png)
+
 # KAT 13
 
 ### *There Are Only 12 Floors.*

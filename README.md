@@ -68,15 +68,16 @@ No installation required. Play directly in your browser.
 
 ## Gameplay Screenshots
 
-![Gameplay 1](Ekran%20görüntüsü%202026-11-19%20000517.png)
-
 ![Gameplay 2](Ekran%20görüntüsü%202026-11-19%20000631.png)
+
+![Gameplay 1](Ekran%20görüntüsü%202026-11-19%20000517.png)
 
 ![Gameplay 3](Ekran%20görüntüsü%202026-11-19%20000830.png)
 
+![Gameplay 5](Ekran%20görüntüsü%202026-11-19%20001224.png)
+
 ![Gameplay 4](Ekran%20görüntüsü%202026-11-19%20000934.png)
 
-![Gameplay 5](Ekran%20görüntüsü%202026-11-19%20001224.png)
 
 ## AI Usage
 
